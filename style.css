@@ -42,3 +42,8 @@ h1{
   .social-login{
  text-align: center;
   }
+
+  .card{
+      max-width: 11%;
+      height: auto;
+  }
